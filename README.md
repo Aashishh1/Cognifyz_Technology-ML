@@ -35,3 +35,7 @@ Welcome to the **Machine Learning Internship Program** at Cognifyz Technologies!
 ---
 
 I recently completed an enriching internship at Cognifyz Technologies, where I explored the dynamic field of machine learning. 🌟
+
+---
+
+_Thank you for checking out the project! 🌟_
